@@ -10,11 +10,10 @@ using System.Windows.Forms;
 
 namespace РГР
 {
-    
-    public partial class Form3 :  Form
+    public partial class Form3 : Form
     {
         List<Data> _list = new List<Data>();
-        
+
         public Form3(List<Data> list)
         {
             InitializeComponent();
@@ -23,28 +22,17 @@ namespace РГР
 
         private void ListBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            
-                       
         }
 
         private void Button1_Click(object sender, EventArgs e)
         {
             listBox1.Items.Clear();
-            if(_list.Count <10)
+            for (int i = 0; i < Math.Min(_list.Count, 10); i++)
             {
-                for (int i = 0; i < _list.Count; i++)
-                {
-                    listBox1.Items.Add(i + 1 + ". " + _list[i].name.PadRight(15) + _list[i].c.ToString().PadRight(15) + _list[i].date1.ToString().PadRight(15));
-                }
+                listBox1.Items.Add((i + 1).ToString("00").PadLeft(5) + " " + _list[i].name.PadRight(7, ' ') +
+                                   _list[i].c.ToString().PadRight(7) +
+                                   _list[i].date1.ToString().PadRight(7));
             }
-            else
-            {
-                for (int i = 0; i < 10; i++)
-                {
-                    listBox1.Items.Add(i + 1 + ". " + _list[i].name.PadRight(15) + _list[i].c.ToString().PadRight(15) + _list[i].date1.ToString().PadRight(15));
-                }
-            }
-           
         }
 
         private void Button2_Click(object sender, EventArgs e)

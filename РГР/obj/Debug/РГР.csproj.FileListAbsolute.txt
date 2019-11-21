@@ -29,3 +29,14 @@ C:\Users\mihai\Downloads\РГР\РГР\obj\Debug\РГР.exe
 C:\Users\mihai\Downloads\РГР\РГР\obj\Debug\РГР.pdb
 C:\Users\mihai\Documents\Проекты 3 семестр\WF_app\РГР\РГР\obj\Debug\РГР.Form2.resources
 C:\Users\mihai\Documents\Проекты 3 семестр\WF_app\РГР\РГР\obj\Debug\РГР.Form3.resources
+C:\Projects\new\РГР\bin\Debug\РГР.exe.config
+C:\Projects\new\РГР\bin\Debug\РГР.exe
+C:\Projects\new\РГР\bin\Debug\РГР.pdb
+C:\Projects\new\РГР\obj\Debug\РГР.csprojAssemblyReference.cache
+C:\Projects\new\РГР\obj\Debug\РГР.Form1.resources
+C:\Projects\new\РГР\obj\Debug\РГР.Form2.resources
+C:\Projects\new\РГР\obj\Debug\РГР.Form3.resources
+C:\Projects\new\РГР\obj\Debug\РГР.Properties.Resources.resources
+C:\Projects\new\РГР\obj\Debug\РГР.csproj.GenerateResource.cache
+C:\Projects\new\РГР\obj\Debug\РГР.exe
+C:\Projects\new\РГР\obj\Debug\РГР.pdb
