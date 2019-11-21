@@ -1,0 +1,31 @@
+C:\Users\mihai\Documents\Проекты 3 семестр\WF_app\РГР\РГР\bin\Debug\РГР.exe.config
+C:\Users\mihai\Documents\Проекты 3 семестр\WF_app\РГР\РГР\bin\Debug\РГР.exe
+C:\Users\mihai\Documents\Проекты 3 семестр\WF_app\РГР\РГР\bin\Debug\РГР.pdb
+C:\Users\mihai\Documents\Проекты 3 семестр\WF_app\РГР\РГР\obj\Debug\РГР.csprojAssemblyReference.cache
+C:\Users\mihai\Documents\Проекты 3 семестр\WF_app\РГР\РГР\obj\Debug\РГР.Form1.resources
+C:\Users\mihai\Documents\Проекты 3 семестр\WF_app\РГР\РГР\obj\Debug\РГР.Properties.Resources.resources
+C:\Users\mihai\Documents\Проекты 3 семестр\WF_app\РГР\РГР\obj\Debug\РГР.csproj.GenerateResource.cache
+C:\Users\mihai\Documents\Проекты 3 семестр\WF_app\РГР\РГР\obj\Debug\РГР.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Documents\Проекты 3 семестр\WF_app\РГР\РГР\obj\Debug\РГР.exe
+C:\Users\mihai\Documents\Проекты 3 семестр\WF_app\РГР\РГР\obj\Debug\РГР.pdb
+C:\Users\Admin\Downloads\RGR\РГР\РГР\bin\Debug\РГР.exe.config
+C:\Users\Admin\Downloads\RGR\РГР\РГР\bin\Debug\РГР.exe
+C:\Users\Admin\Downloads\RGR\РГР\РГР\bin\Debug\РГР.pdb
+C:\Users\Admin\Downloads\RGR\РГР\РГР\obj\Debug\РГР.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\RGR\РГР\РГР\obj\Debug\РГР.Form1.resources
+C:\Users\Admin\Downloads\RGR\РГР\РГР\obj\Debug\РГР.Properties.Resources.resources
+C:\Users\Admin\Downloads\RGR\РГР\РГР\obj\Debug\РГР.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\RGR\РГР\РГР\obj\Debug\РГР.exe
+C:\Users\Admin\Downloads\RGR\РГР\РГР\obj\Debug\РГР.pdb
+C:\Users\mihai\Downloads\РГР\РГР\bin\Debug\РГР.exe.config
+C:\Users\mihai\Downloads\РГР\РГР\bin\Debug\РГР.exe
+C:\Users\mihai\Downloads\РГР\РГР\bin\Debug\РГР.pdb
+C:\Users\mihai\Downloads\РГР\РГР\obj\Debug\РГР.csprojAssemblyReference.cache
+C:\Users\mihai\Downloads\РГР\РГР\obj\Debug\РГР.Form1.resources
+C:\Users\mihai\Downloads\РГР\РГР\obj\Debug\РГР.Properties.Resources.resources
+C:\Users\mihai\Downloads\РГР\РГР\obj\Debug\РГР.csproj.GenerateResource.cache
+C:\Users\mihai\Downloads\РГР\РГР\obj\Debug\РГР.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Downloads\РГР\РГР\obj\Debug\РГР.exe
+C:\Users\mihai\Downloads\РГР\РГР\obj\Debug\РГР.pdb
+C:\Users\mihai\Documents\Проекты 3 семестр\WF_app\РГР\РГР\obj\Debug\РГР.Form2.resources
+C:\Users\mihai\Documents\Проекты 3 семестр\WF_app\РГР\РГР\obj\Debug\РГР.Form3.resources
